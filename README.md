@@ -6,7 +6,7 @@
 ### Index
 
 ##### 1. [Abstract](#abstract)
-##### 2. [Algorithms output table](#database)
+##### 2. [Algorithms description table](#database)
 
   
 
@@ -14,6 +14,7 @@
 
 The present repository contains simple algorithms wrotted using Python language. The initial idea was make quick start about that language. Here is eight ".py" files, named by exer-{some number}. To esily reference the algorithms, we call him just by number, for exemple, to say something about exer-1, the short documentation call this by 1. It solve some questions introduced by algorithms teacher, in Data Science course of Fatec Adamantina.
 
+### 2. Algorithms description table <a name="abstract"/>
 |Alg| Description |
 |-- |      --     |
 | 1 | Arithmetic average of 5 numbers|
