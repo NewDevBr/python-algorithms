@@ -20,7 +20,7 @@ The present repository contains simple algorithms wrotted using Python language.
 | 1 | Arithmetic average of 5 numbers|
 | 2 | Years old in days, hours, minutes and seconds |
 | 3 | Convert Reais in American Dollars considering the currency buy value as const 5.50|
-| 4 | Calculates the circle area |
+| 4 | Show the output of function  `f(x) = x² + 5x - 4`|
 | 5 | Show the division rest about two number |
 | 6 | Calculates the sphere area |
 | 7 | Show output of two specific functions, one this of first degree and outher third degree follow respective formules:  `f(x) =  2x  + 1` and `f(x) = x³ - 2x² + x - 1` |
